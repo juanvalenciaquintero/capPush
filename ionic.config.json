@@ -1,0 +1,7 @@
+{
+  "name": "capPush",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
