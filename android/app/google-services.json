@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244411381418",
+    "project_id": "capacitorpush-fbf0b",
+    "storage_bucket": "capacitorpush-fbf0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244411381418:android:7737df9ec70e13695682d3",
+        "android_client_info": {
+          "package_name": "io.ionic.cappush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244411381418-b01doc3mqasu644vmkjr7k8t2q20effa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ5OV20kV2mcsj6VJP_2oqK1v70JfY0a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244411381418-b01doc3mqasu644vmkjr7k8t2q20effa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
